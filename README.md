@@ -19,6 +19,7 @@ hyperledger/fabric-ccenv      The fabric-ccenv image which is used to build chai
 
 <img src="https://hyperledger-fabric.readthedocs.io/en/release-1.3/_images/peers.diagram.1.png">
 
+~~~~
 A blockchain network is comprised primarily of 
 
 a set of peer nodes (or, simply, peers). 
