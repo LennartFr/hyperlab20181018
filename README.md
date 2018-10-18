@@ -37,7 +37,7 @@ hyperledger/fabric-kafka      https://hyperledger-fabric.readthedocs.io/en/relea
 
 hyperledger/fabric-couchdb    https://hyperledger-fabric.readthedocs.io/en/release-1.1/couchdb_as_state_database.html 
 
-https://hyperledger-fabric.readthedocs.io/en/release-1.3/couchdb_as_state_database.html?highlight=couchdbhyperledger/fabric-baseimage 
+hyperledger/fabric-baseimage 
 
 hyperledger/fabric-baseos                                                                                            
 
