@@ -7,6 +7,8 @@ curl -sSL http://bit.ly/2ysbOFE | bash -s 1.3.0
 ~~~~
 
 ===> List out hyperledger docker images
+~~~~
+===> List out hyperledger docker images
 hyperledger/fabric-javaenv                                                                                           1.3.0               2476cefaf833        8 days ago          1.7GB
 hyperledger/fabric-javaenv                                                                                           latest              2476cefaf833        8 days ago          1.7GB
 hyperledger/fabric-ca                                                                                                1.3.0               5c6b20ba944f        8 days ago          244MB
@@ -49,7 +51,5 @@ hyperledger/fabric-couchdb                                                      
 hyperledger/fabric-orderer                                                                                           x86_64-1.0.4        b17741e7b036        11 months ago       151MB
 hyperledger/fabric-peer                                                                                              x86_64-1.0.4        1ce935adc397        11 months ago       154MB
 hyperledger/fabric-ccenv                                                                                             x86_64-1.0.4        856061b1fed7        11 months ago       1.28GB
-Arnes-MacBook-Pro:falken2 arnelennartfrantzell$ 
-
 
 ~~~~
