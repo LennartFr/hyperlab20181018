@@ -32,8 +32,13 @@ Smart contracts and ledgers are used to encapsulate the shared processes and sha
 
 These aspects of a peer make them a good starting point to understand a Hyperledger Fabric network.
 
-hyperledger/fabric-zookeeper  https://hyperledger-fabric.readthedocs.io/en/release-1.2/kafka.html                             hyperledger/fabric-kafka      https://hyperledger-fabric.readthedocs.io/en/release-1.1/kafka.html
-hyperledger/fabric-couchdb    https://hyperledger-fabric.readthedocs.io/en/release-1.1/couchdb_as_state_database.html          hyperledger/fabric-baseimage                                                                                         x86_64-
-hyperledger/fabric-baseos                                                                                            x86_64-
+hyperledger/fabric-zookeeper  https://hyperledger-fabric.readthedocs.io/en/release-1.3/kafka.html?highlight=zookeeper                             
+hyperledger/fabric-kafka      https://hyperledger-fabric.readthedocs.io/en/release-1.1/kafka.html
+
+hyperledger/fabric-couchdb    https://hyperledger-fabric.readthedocs.io/en/release-1.1/couchdb_as_state_database.html 
+
+https://hyperledger-fabric.readthedocs.io/en/release-1.3/couchdb_as_state_database.html?highlight=couchdbhyperledger/fabric-baseimage 
+
+hyperledger/fabric-baseos                                                                                            
 
 ~~~~
