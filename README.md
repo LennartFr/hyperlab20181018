@@ -4,10 +4,11 @@ https://hyperledger-fabric.readthedocs.io/en/release-1.3/install.html
 
 curl -sSL http://bit.ly/2ysbOFE | bash -s 1.3.0
 
+The build your first network (BYFN) scenario provisions a sample Hyperledger Fabric network 
+consisting of two organizations, each maintaining two peer nodes, 
+and a “solo” ordering service.
+
 ~~~~
-
-The build your first network (BYFN) scenario provisions a sample Hyperledger Fabric network consisting of two organizations, each maintaining two peer nodes, and a “solo” ordering service.
-
 ===> List out hyperledger docker images
 
 hyperledger/fabric-javaenv                                                                                           1.3.0               2476cefaf833        8 days ago          1.7GB
