@@ -1,4 +1,8 @@
-# hyperlab20181018
+# Hyperledger Fabric workshop in Fremont. 
+
+
+## Hyperledger Fabric in a nutshell: (https://www.youtube.com/watch?v=7EpPrSJtqZU&feature=youtu.be)
+An enterprize grade distributed ledger based on Blockchain technologies that uses Smart Contracts to enforce trust between parties.
 
 https://hyperledger-fabric.readthedocs.io/en/release-1.3/install.html
 
