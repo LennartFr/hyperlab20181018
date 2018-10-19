@@ -1,6 +1,22 @@
 # Hyperledger Fabric workshop in Fremont. 
 10/24/2018
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Agenda
+~~~
+6:00: Sign-in, mingle, food, welcome, form teams 
+6:20: Lennart: Introduction to IBM Blockchain and Hyperledger  
+6:40: Coding starts.
+      Lab 1: Let's run our first application in Hyperledger Fabric
+      Lab 2: Let's write an app with the Hyperledger Composer
+      Lab 3: A full app, Decentralized Energy with Hyperledger Composer
+8:15: Coding ends.
+      Where do we go from here? 
+      Developer Journeys for Blockchain
+      Q1 2018: Advanced Blockchain, a Hands-on Workshop.
+8:30: Event ends   
+
 ## Hyperledger Fabric in a nutshell: 
 An enterprize grade distributed ledger based on Blockchain technologies that uses Smart Contracts to enforce trust between parties. Source: (https://www.youtube.com/watch?v=7EpPrSJtqZU&feature=youtu.be)
 
@@ -59,3 +75,69 @@ hyperledger/fabric-baseimage
 hyperledger/fabric-baseos                                                                                            
 
 ~~~~
+
+
+## Step 2 Navigate to a directory where you want the samples downloaded to, and issue these commands:
+
+    1. Source file: http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html
+    2. Open terminal window on laptop, do: git clone https://github.com/hyperledger/fabric-samples.git
+    3. cd fabric-samples/fabcar
+    4. See what's inside the directory: enrollAdmin.js invoke.js package.json query.js registerUser.js  startFabric.sh
+    5. docker rm -f $(docker ps -aq)
+    6. Start the fabric: ./startFabric.sh
+    7. Install the SDK Node modules: npm install
+    8. node enrollAdmin.js
+    9. node registerUser.js
+   10. node query.js
+   
+   Output:
+   
+  <i>  Creating network "net_basic" with the default driver
+    Creating couchdb ... 
+    
+    Creating ca.example.com ...
+    
+      CA: Certificate Authority https://hyperledger-fabric-ca.readthedocs.io/en/latest/ 
+         Comment: It provides features such as:
+         1. Issues certificates to other network participants to enroll in the network,
+	       or connects to LDAP as the user registry
+         2. issuance of Enrollment Certificates (ECerts)
+         3. certificate renewal and revocation
+	     
+    Creating orderer.example.com ...
+    
+        Comment: The Hyperledger fabric ordering service is intended to provide an atomic broadcast 
+        ordering service for consumption by the peers. This means that many clients may 
+	submit messages for ordering, and all clients are delivered the same series of 
+	ordered batches in response.
+    
+    Creating ca.example.com
+    
+    Creating orderer.example.com
+    
+    Creating couchdb ... done
+       Comment: Transactions are collected into blocks/batches on the Ordering Service.
+       The  blocks are stored locally to disk on every Ordering Service node 
+       along with a LevelDB or CouchDB index to these blocks by number. 
+       The blocks are delivered via RPC to committing peers. 
+       The peers store them locally, and maintain a LevelDB (or CouchDB)based block index. 
+       http://bit.ly/2zORhrC
+    
+    Creating peer0.org1.example.com ...
+       Comment: A Peer is a node that validates and commits transactions and maintains the state and a copy 
+       of the ledger. 
+
+       Every peer stores the data of the blockchain in its container. 
+       In a production envirement this container has a volume (mounted folder) to a real hard drive, NAS, SAN 
+       or any other storage that you may use. Otherwise if the container is stopped all the data that was in the 
+       container will be gone. 
+       
+       Every peer stores exactly the same data. So if a blockchain is 10Gb and you have 5 peers 
+       then 50Gb will be needed to store 5 separate files from every peer and every file is 10Gb.
+
+       Creating peer0.org1.example.com ... 
+       done
+       
+  <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
+
+  </i>
