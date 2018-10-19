@@ -33,14 +33,7 @@ October 2008. It all started with Satoshi Nakamoto and his paper [Bitcoin: A Pee
 <p>
 which combined provide a trustworthy service to a group of nodes that do not fully trust each other. 
 <p>
-</i>
-<p>
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
-
-
-## Hyperledger Fabric in a nutshell: 
-An enterprize grade distributed ledger based on Blockchain technologies that uses Smart Contracts to enforce trust between parties. Source: (https://www.youtube.com/watch?v=7EpPrSJtqZU&feature=youtu.be)
-
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
