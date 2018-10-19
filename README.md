@@ -167,3 +167,6 @@ hyperledger/fabric-baseos
 ## Use Cases
 
 https://www.ibm.com/blockchain/use-cases/
+
+
+<img src="https://github.com/LennartFr/hyperlab20181018/blob/master/Screen%20Shot%202018-10-19%20at%2011.41.49.png">
