@@ -36,7 +36,6 @@ Every single operation in the Hyperledger Fabric must be signed by an X.509 cert
 More on: https://hyperledger-fabric.readthedocs.io/en/release-1.2/identity/identity.html
 
 <img src="https://hyperledger-fabric.readthedocs.io/en/release-1.2/_images/identity.diagram.11.png">
-~~~~
 
 <img src="https://hyperledger-fabric-ca.readthedocs.io/en/latest/_images/fabric-ca.png">
 
