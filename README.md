@@ -18,6 +18,26 @@
 8:30: Event ends   
 ~~~~
 
+# How did it all start?
+ 
+October 2008. It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
+
+<img src="https://farm5.staticflickr.com/4505/24079519258_ab8a80f7ed_o.png" width="769" height="229" alt="Double Spending">
+<p>
+
+<i>A blockchain is a decentralized virtual ledger for recording transactions <b>without central authority </b> through a distributed cryptographic protocol. It is made up of three technologies 
+
+1. cryptographic algorithms, 
+1. a distributed protocol, 
+1. and replicated data 
+<p>
+which combined provide a trustworthy service to a group of nodes that do not fully trust each other. 
+<p>
+</i>
+<p>
+Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
+
+
 ## Hyperledger Fabric in a nutshell: 
 An enterprize grade distributed ledger based on Blockchain technologies that uses Smart Contracts to enforce trust between parties. Source: (https://www.youtube.com/watch?v=7EpPrSJtqZU&feature=youtu.be)
 
@@ -145,3 +165,12 @@ hyperledger/fabric-baseos
   <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
 
   </i>
+
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Let's begin devloping our app!
+
+## Use Cases
+
+https://www.ibm.com/blockchain/use-cases/
