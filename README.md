@@ -20,6 +20,8 @@
 ## Hyperledger Fabric in a nutshell: 
 An enterprize grade distributed ledger based on Blockchain technologies that uses Smart Contracts to enforce trust between parties. Source: (https://www.youtube.com/watch?v=7EpPrSJtqZU&feature=youtu.be)
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 ## Let's take a look at a simple Hyperledger Fabric business network
 
 ....your first network (BYFN) scenario provisions a sample Hyperledger Fabric network 
