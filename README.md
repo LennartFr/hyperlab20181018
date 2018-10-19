@@ -18,8 +18,10 @@ curl -sSL http://bit.ly/2ysbOFE | bash -s 1.3.0
 hyperledger/fabric-javaenv    Go is the default chaincode language, however there is also support for Node.js and Java      
                               chaincode. 1.3.0
 hyperledger/fabric-ca         https://hyperledger-fabric-ca.readthedocs.io/en/latest/#welcome-to-hyperledger-fabric-ca-certificate-authority   
+~~~~
 
 <img src="https://hyperledger-fabric-ca.readthedocs.io/en/latest/_images/fabric-ca.png">
+~~~~
 
 hyperledger/fabric-tools                                                                                                  
 hyperledger/fabric-ccenv      The fabric-ccenv image which is used to build chaincode,                                        hyperledger/fabric-orderer    https://hyperledger-fabric.readthedocs.io/en/release-1.1/ordering-service-faq.html              hyperledger/fabric-peer       https://hyperledger-fabric.readthedocs.io/en/release-1.3/peers/peers.html
