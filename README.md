@@ -170,8 +170,7 @@ hyperledger/fabric-baseos
 
 https://www.ibm.com/blockchain/use-cases/
 
-## Lab 1: Hyperledger Composer
-
+## Lab 1: Hyperledger Composer  https://github.com/LennartFr/hyperledgerlab2018#-hands-on-lab-
 ## Lab 2: 
 
 ## Lab 3: IBM Blockchain Platform
