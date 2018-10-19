@@ -5,18 +5,19 @@
 
 # Agenda
 ~~~
-6:00: Sign-in, mingle, food, welcome, form teams 
-6:20: Lennart: Introduction to IBM Blockchain and Hyperledger  
-6:40: Coding starts.
+7:00: Sign-in, mingle, food, welcome, form teams 
+7:20: Lennart: Introduction to IBM Blockchain and Hyperledger  
+7:40: Coding starts.
       Lab 1: Let's run our first application in Hyperledger Fabric
       Lab 2: Let's write an app with the Hyperledger Composer
-      Lab 3: A full app, Decentralized Energy with Hyperledger Composer
+      Lab 3: Into the IBM Cloud with IBM Blockchain, a full app
 8:15: Coding ends.
       Where do we go from here? 
-      Developer Journeys for Blockchain
-      Q1 2018: Advanced Blockchain, a Hands-on Workshop.
-8:30: Event ends   
+      Developer Journeys for Blockchain  https://developer.ibm.com/code/technologies/blockchain/
+9:00: Event ends   
 ~~~~
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # How did it all start?
  
@@ -37,7 +38,8 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Let's take a look at a simple Hyperledger Fabric business network
+## Let's take a look at a simple Hyperledger Fabric business network.
+
 
 ....your first network (BYFN) scenario provisions a sample Hyperledger Fabric network 
 consisting of two organizations, each maintaining two peer nodes, and a "solo" ordering service. 
@@ -167,6 +169,14 @@ hyperledger/fabric-baseos
 ## Use Cases
 
 https://www.ibm.com/blockchain/use-cases/
+
+## Lab 1: Hyperledger Composer
+
+## Lab 2: 
+
+## Lab 3: IBM Blockchain Platform
+
+https://www.ibm.com/blockchain/platform?|1298|22081
 
 
 <img src="https://github.com/LennartFr/hyperlab20181018/blob/master/Screen%20Shot%202018-10-19%20at%2011.41.49.png">
