@@ -39,7 +39,6 @@ More on: https://hyperledger-fabric.readthedocs.io/en/release-1.2/identity/ident
 ~~~~
 
 <img src="https://hyperledger-fabric-ca.readthedocs.io/en/latest/_images/fabric-ca.png">
-~~~~
 
 ~~~~
 hyperledger/fabric-tools                                                                                                  
@@ -49,7 +48,6 @@ hyperledger/fabric-ccenv      The fabric-ccenv image which is used to build chai
 <img src="https://hyperledger-fabric.readthedocs.io/en/release-1.3/_images/peers.diagram.1.png">
 
 ~~~~
-
 
 hyperledger/fabric-zookeeper  https://hyperledger-fabric.readthedocs.io/en/release-1.3/kafka.html?highlight=zookeeper                             
 hyperledger/fabric-kafka      https://hyperledger-fabric.readthedocs.io/en/release-1.1/kafka.html
