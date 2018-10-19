@@ -1,22 +1,26 @@
 # Hyperledger Fabric workshop in Fremont. 
-
+10/24/2018
 
 ## Hyperledger Fabric in a nutshell: (https://www.youtube.com/watch?v=7EpPrSJtqZU&feature=youtu.be)
 An enterprize grade distributed ledger based on Blockchain technologies that uses Smart Contracts to enforce trust between parties.
 
-https://hyperledger-fabric.readthedocs.io/en/release-1.3/install.html
+## Let's take a look at a simple Hyperledger Fabric business network
+
+....your first network (BYFN) scenario provisions a sample Hyperledger Fabric network 
+consisting of two organizations, each maintaining two peer nodes, and a "solo" ordering service. 
+.
 
 curl -sSL http://bit.ly/2ysbOFE | bash -s 1.3.0
-
-The build your first network (BYFN) scenario provisions a sample Hyperledger Fabric network 
-consisting of two organizations, each maintaining two peer nodes, 
-and a “solo” ordering service.
 
 ~~~~
 ===> List out hyperledger docker images
 
-hyperledger/fabric-javaenv                                                                                           1.3.0               2476cefaf833        8 days ago          1.7GB
-hyperledger/fabric-ca         https://hyperledger-fabric-ca.readthedocs.io/en/latest/#welcome-to-hyperledger-fabric-ca-certificate-authority                                                                                                     
+hyperledger/fabric-javaenv    Go is the default chaincode language, however there is also support for Node.js and Java      
+                              chaincode. 1.3.0
+hyperledger/fabric-ca         https://hyperledger-fabric-ca.readthedocs.io/en/latest/#welcome-to-hyperledger-fabric-ca-certificate-authority   
+
+<img src="https://hyperledger-fabric-ca.readthedocs.io/en/latest/_images/fabric-ca.png">
+
 hyperledger/fabric-tools                                                                                                  
 hyperledger/fabric-ccenv      The fabric-ccenv image which is used to build chaincode,                                        hyperledger/fabric-orderer    https://hyperledger-fabric.readthedocs.io/en/release-1.1/ordering-service-faq.html              hyperledger/fabric-peer       https://hyperledger-fabric.readthedocs.io/en/release-1.3/peers/peers.html
 ~~~~
