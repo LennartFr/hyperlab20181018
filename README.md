@@ -44,9 +44,6 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 # Hyperledger Components
 
-<a href="https://www.ibm.com/blockchain/use-cases/">IBM Blockchain Use Cases</a>
-
-
 <a href="https://www.hyperledger.org/">Hyperledger by Linux Foundation</a>
 
 <img src="https://hyperledger.org/wp-content/uploads/2018/07/Hyperledger_Greenhouse-59-2.png">
