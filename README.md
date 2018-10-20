@@ -76,9 +76,10 @@ https://www.hyperledger.org/projects/composer
 
 ## Let's take a look at a simple Hyperledger Fabric business network.
 
-### 1. Fabric Certificate Authority (CA) hyperledger/fabric-ca
+### 1. Fabric Certificate Authority (CA) hyperledger/fabric-ca (also known as Membership Service Provider)
 
-Every single operation in the Hyperledger Fabric must be signed by an X.509 certificate. The Fabric-ca certificate authority is used for generating X.509 certificates.
+Every single operation in the Hyperledger Fabric must be signed by an X.509 certificate. 
+The Fabric-ca certificate authority is used for generating X.509 certificates.
 
 https://hyperledger-fabric-ca.readthedocs.io/en/latest/#welcome-to-hyperledger-fabric-ca-certificate-authority   
 More on: https://hyperledger-fabric.readthedocs.io/en/release-1.2/identity/identity.html
@@ -87,9 +88,16 @@ More on: https://hyperledger-fabric.readthedocs.io/en/release-1.2/identity/ident
 
 <img src="https://hyperledger-fabric-ca.readthedocs.io/en/latest/_images/fabric-ca.png">
 
+### 2. Fabric Peer and Fabric Ledger, where the Blockchain is stored.
+1. The Fabric ledger is maintained by each peer and includes the blockchain and worldstate
+1. A separate ledger is maintained for each channel the peer joins
+1. Transaction read/write sets are written to the blockchain
+1. Channel configurations are also written to the blockchain
 
-### 2. Fabric Peer
-### 3. Fabric Orderer
+
+### 3. Fabric Orderering service
+The heart if the concensus algorithm. Before anything is committed to the ledger it must pass thru the
+ordering service.
 
 ....your first network (BYFN) scenario provisions a sample Hyperledger Fabric network 
 consisting of two organizations, each maintaining two peer nodes, and a "solo" ordering service. 
