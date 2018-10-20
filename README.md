@@ -1,4 +1,4 @@
-# Hyperledger Fabric workshop in Fremont. 
+# Hyperledger Fabric workshop at https://www.theden.io/ in Fremont. 
 URL: https://ibm.biz/HyperledgerFremont
 
 10/24/2018
