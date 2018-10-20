@@ -151,8 +151,13 @@ Creating couchdb ... done
        The blocks are delivered via RPC to committing peers. 
        The peers store them locally, and maintain a LevelDB (or CouchDB)based block index. 
        http://bit.ly/2zORhrC                                                                                            
-  
-  <img src="https://raw.githubusercontent.com/LennartFr/hyperlab20181018/master/Screen%20Shot%202018-10-19%20at%2011.49.41.png">
+ 
+### 4: Chaincode or Smart Contracts
+
+
+https://hyperledger-fabric.readthedocs.io/en/release-1.3/chaincode.html#chaincode-tutorials
+
+ <img src="https://raw.githubusercontent.com/LennartFr/hyperlab20181018/master/Screen%20Shot%202018-10-19%20at%2011.49.41.png">
 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
