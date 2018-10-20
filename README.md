@@ -177,12 +177,13 @@ https://www.ibm.com/blockchain/use-cases/
 ## Lab 3: IBM Blockchain Platform
 https://www.ibm.com/blockchain/platform?|1298|22081
 
+https://vehicle-manufacture-basilar-fenestration.mybluemix.net/tutorial
+
 <img src="https://github.com/LennartFr/hyperlab20181018/blob/master/ibmcloudbc-1.png">
 
 # Section Five, where do we go from here?
 
 
-# Appendix
 
-<img src="https://hyperledger.github.io/composer/v0.19/assets/img/ComposerArchitecture.svg">
-<img src="https://hyperledger.github.io/composer/v0.19/assets/img/Composer-Diagram.svg">
+
+# Appendix
