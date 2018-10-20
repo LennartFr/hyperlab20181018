@@ -153,11 +153,11 @@ Creating couchdb ... done
        The  blocks are stored locally to disk on every Ordering Service node 
        along with a LevelDB or CouchDB index to these blocks by number. 
        The blocks are delivered via RPC to committing peers. 
-       The peers store them locally, and maintain a LevelDB (or CouchDB)based block index. 
+       The peers store them locally, and maintain a LevelDB (or CouchDB)based block index.
+       ~~~~
        http://bit.ly/2zORhrC                                                                                            
  
 ### 4: Chaincode or Smart Contracts
-
 
 https://hyperledger-fabric.readthedocs.io/en/release-1.3/chaincode.html#chaincode-tutorials
 
@@ -177,13 +177,17 @@ https://www.ibm.com/blockchain/use-cases/
 ## Lab 3: IBM Blockchain Platform
 https://www.ibm.com/blockchain/platform?|1298|22081
 
+https://github.com/IBM-Blockchain/vehicle-manufacture. Click on Blue Button to kick off the deployment.
+
 https://vehicle-manufacture-basilar-fenestration.mybluemix.net/tutorial
 
 <img src="https://github.com/LennartFr/hyperlab20181018/blob/master/ibmcloudbc-1.png">
 
 # Section Five, where do we go from here?
 
-
+1. Go through the IBM Code Patterns for Blockchain.
+1. Create more advanced applications from the list of IBM Use Cases 
+1. Engage with IBM Developer Advocates on your plans and ISV free resources
 
 
 # Appendix
