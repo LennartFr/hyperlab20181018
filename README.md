@@ -76,9 +76,20 @@ https://www.hyperledger.org/projects/composer
 
 ## Let's take a look at a simple Hyperledger Fabric business network.
 
-### 1. Fabric CA
-### 1. Fabric Peer
-### 1. Fabric Orederer
+### 1. Fabric Certificate Authority (CA) hyperledger/fabric-ca
+
+Every single operation in the Hyperledger Fabric must be signed by an X.509 certificate. The Fabric-ca certificate authority is used for generating X.509 certificates.
+
+https://hyperledger-fabric-ca.readthedocs.io/en/latest/#welcome-to-hyperledger-fabric-ca-certificate-authority   
+More on: https://hyperledger-fabric.readthedocs.io/en/release-1.2/identity/identity.html
+
+<img src="https://hyperledger-fabric.readthedocs.io/en/release-1.2/_images/identity.diagram.11.png">
+
+<img src="https://hyperledger-fabric-ca.readthedocs.io/en/latest/_images/fabric-ca.png">
+
+
+### 2. Fabric Peer
+### 3. Fabric Orderer
 
 ....your first network (BYFN) scenario provisions a sample Hyperledger Fabric network 
 consisting of two organizations, each maintaining two peer nodes, and a "solo" ordering service. 
@@ -103,16 +114,7 @@ curl -sSL http://bit.ly/2ysbOFE | bash -s 1.3.0
 
 hyperledger/fabric-javaenv    Go is the default chaincode language, however there is also support for Node.js and Java      
                               chaincode. 1.3.0
-hyperledger/fabric-ca         https://hyperledger-fabric-ca.readthedocs.io/en/latest/#welcome-to-hyperledger-fabric-ca-certificate-authority   
 
-Every single operation in the Hyperledger Fabric must be signed by an X.509 certificate. The Fabric-ca certificate authority is used for generating X.509 certificates.
-
-~~~~
-More on: https://hyperledger-fabric.readthedocs.io/en/release-1.2/identity/identity.html
-
-<img src="https://hyperledger-fabric.readthedocs.io/en/release-1.2/_images/identity.diagram.11.png">
-
-<img src="https://hyperledger-fabric-ca.readthedocs.io/en/latest/_images/fabric-ca.png">
 
 ~~~~
 hyperledger/fabric-tools                                                                                                  
