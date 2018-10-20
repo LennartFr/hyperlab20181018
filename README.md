@@ -120,6 +120,8 @@ Smart contracts and ledgers are used to encapsulate the shared processes and sha
 The heart if the concensus algorithm. Before anything is committed to the ledger it must pass thru the
 ordering service.
 
+<img src="https://github.com/LennartFr/hyperlab20181018/blob/master/Screen%20Shot%202018-10-19%20at%2011.41.49.png">
+
 Comment: The Hyperledger fabric ordering service is intended to provide an atomic broadcast 
 ordering service for consumption by the peers. This means that many clients may 
 submit messages for ordering, and all clients are delivered the same series of 
@@ -176,12 +178,6 @@ https://www.ibm.com/blockchain/use-cases/
 https://www.ibm.com/blockchain/platform?|1298|22081
 
 <img src="https://github.com/LennartFr/hyperlab20181018/blob/master/ibmcloudbc-1.png">
-
-
-
-<img src="https://github.com/LennartFr/hyperlab20181018/blob/master/Screen%20Shot%202018-10-19%20at%2011.41.49.png">
-
-
 
 # Section Five, where do we go from here?
 
