@@ -1,6 +1,8 @@
 # Hyperledger Fabric workshop in Fremont. 
 10/24/2018
 
+URL: https://ibm.biz/HyperledgerFremont
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Agenda
