@@ -76,6 +76,9 @@ https://www.hyperledger.org/projects/composer
 
 # Section Three, Let's take a look at a simple Hyperledger Fabric business network.
 
+<img src="">
+
+
 <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
 
 ....your first network (BYFN) scenario provisions a sample Hyperledger Fabric network 
