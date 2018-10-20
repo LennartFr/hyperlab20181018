@@ -38,6 +38,22 @@ which combined provide a trustworthy service to a group of nodes that do not ful
 <p>
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
+# News Update
+
+<img src="https://www.hyperledger.org/wp-content/uploads/2018/10/EEA-Hyperledger-02-1.png"><p>
+
+<a href="https://www.hyperledger.org/blog/2018/10/01/growing-the-enterprise-blockchain-ecosystem-through-open-standards-and-open-source-code">Growing the Enterprise Blockchain Ecosystem Through Open Standards and Open Source Code</a>
+
+<img src="https://github.com/LennartFr/hyperledgerlab2018/blob/master/Screen%20Shot%202018-10-12%20at%2009.46.17.png">
+
+# <a href="https://www.hyperledger.org/resources/publications/blockchain-performance-metrics">Hyperledger Performance Metrics</a>
+
+<a href="https://cachin.com/cc/talks/20170106-blockchain-rwc.pdf">Cryptography and Protocols in
+Hyperledger Fabric</a>
+
+<a href="https://developer.ibm.com/code/technologies/blockchain/">IBM Blockchain Code Patterns</a>
+
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Section Two, The tools we'll be using: Hyperledger from Linux Foundation
