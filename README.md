@@ -40,9 +40,9 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Hyperledger from Linux Foundation
+# The tools we'll be using: Hyperledger from Linux Foundation
 
-# Hyperledger Components
+## Hyperledger Components
 
 <a href="https://www.hyperledger.org/">Hyperledger by Linux Foundation</a>
 
