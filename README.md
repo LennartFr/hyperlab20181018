@@ -70,21 +70,15 @@ https://www.hyperledger.org/projects/composer
 
 [Composer Playground](https://composer-playground.mybluemix.net/login)
 
-<img src="https://hyperledger.github.io/composer/v0.19/assets/img/ComposerArchitecture.svg">
-
-
-<img src="https://hyperledger.github.io/composer/v0.19/assets/img/Composer-Diagram.svg">
-
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
 
 
 ## Let's take a look at a simple Hyperledger Fabric business network.
 
 ### 1. Fabric CA
 ### 1. Fabric Peer
-### 1. Fabric Oredere
+### 1. Fabric Orederer
 
 ....your first network (BYFN) scenario provisions a sample Hyperledger Fabric network 
 consisting of two organizations, each maintaining two peer nodes, and a "solo" ordering service. 
@@ -223,3 +217,9 @@ https://www.ibm.com/blockchain/platform?|1298|22081
 
 
 <img src="https://github.com/LennartFr/hyperlab20181018/blob/master/Screen%20Shot%202018-10-19%20at%2011.41.49.png">
+
+
+<img src="https://hyperledger.github.io/composer/v0.19/assets/img/ComposerArchitecture.svg">
+
+
+<img src="https://hyperledger.github.io/composer/v0.19/assets/img/Composer-Diagram.svg">
