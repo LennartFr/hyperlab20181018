@@ -21,7 +21,7 @@ URL: https://ibm.biz/HyperledgerFremont
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# How did it all start?
+# Section One, How did it all start?
  
 October 2008. It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
 
@@ -40,7 +40,7 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# The tools we'll be using: Hyperledger from Linux Foundation
+# Section Two, The tools we'll be using: Hyperledger from Linux Foundation
 
 ## Hyperledger Components
 
@@ -74,7 +74,7 @@ https://www.hyperledger.org/projects/composer
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 
-## Let's take a look at a simple Hyperledger Fabric business network.
+# Section Three, Let's take a look at a simple Hyperledger Fabric business network.
 
 ....your first network (BYFN) scenario provisions a sample Hyperledger Fabric network 
 consisting of two organizations, each maintaining two peer nodes, and a "solo" ordering service. 
@@ -109,9 +109,6 @@ Smart contracts and ledgers are used to encapsulate the shared processes and sha
 1. A separate ledger is maintained for each channel the peer joins
 1. Transaction read/write sets are written to the blockchain
 1. Channel configurations are also written to the blockchain
-
-
-
 
 ### 3. Fabric Orderering service
 The heart if the concensus algorithm. Before anything is committed to the ledger it must pass thru the
@@ -151,7 +148,6 @@ Creating couchdb ... done
        The peers store them locally, and maintain a LevelDB (or CouchDB)based block index. 
        http://bit.ly/2zORhrC                                                                                            
 
-~~~~
      
   <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
 </i>
@@ -159,7 +155,7 @@ Creating couchdb ... done
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Let's begin devloping our app!
+# Section Four, let's begin devloping our app!
 
 ## Use Cases
 
@@ -179,3 +175,5 @@ https://www.ibm.com/blockchain/platform?|1298|22081
 
 
 <img src="https://hyperledger.github.io/composer/v0.19/assets/img/Composer-Diagram.svg">
+
+# Section Five, where do we go from here?
