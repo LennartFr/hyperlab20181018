@@ -76,6 +76,8 @@ https://www.hyperledger.org/projects/composer
 
 # Section Three, Let's take a look at a simple Hyperledger Fabric business network.
 
+<img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
+
 ....your first network (BYFN) scenario provisions a sample Hyperledger Fabric network 
 consisting of two organizations, each maintaining two peer nodes, and a "solo" ordering service. 
 
@@ -147,9 +149,6 @@ Creating couchdb ... done
        The blocks are delivered via RPC to committing peers. 
        The peers store them locally, and maintain a LevelDB (or CouchDB)based block index. 
        http://bit.ly/2zORhrC                                                                                            
-
-     
-  <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
   
   <img src="https://raw.githubusercontent.com/LennartFr/hyperlab20181018/master/Screen%20Shot%202018-10-19%20at%2011.49.41.png">
 
