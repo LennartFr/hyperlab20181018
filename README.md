@@ -173,7 +173,7 @@ https://www.ibm.com/blockchain/use-cases/
 ## Lab 3: IBM Blockchain Platform
 https://www.ibm.com/blockchain/platform?|1298|22081
 
-
+<img src="https://github.com/LennartFr/hyperlab20181018/blob/master/ibmcloudbc-1.png">
 
 
 
