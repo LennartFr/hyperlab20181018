@@ -171,8 +171,10 @@ https://www.ibm.com/blockchain/use-cases/
 ## Lab 1: Hyperledger Composer  https://github.com/LennartFr/hyperledgerlab2018#-hands-on-lab-
 ## Lab 2: Decentralized Energy Composer: https://github.com/IBM/Decentralized-Energy-Composer 
 ## Lab 3: IBM Blockchain Platform
-
 https://www.ibm.com/blockchain/platform?|1298|22081
+
+
+
 
 
 <img src="https://github.com/LennartFr/hyperlab20181018/blob/master/Screen%20Shot%202018-10-19%20at%2011.41.49.png">
