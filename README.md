@@ -213,6 +213,6 @@ https://vehicle-manufacture-basilar-fenestration.mybluemix.net/tutorial
 1. Go through the IBM Code Patterns for Blockchain. https://developer.ibm.com/patterns/category/blockchain/
 1. Create more advanced applications from the list of IBM Use Cases 
 1. Engage with IBM Developer Advocates on your plans and ISV free resources
-
+1. https://www.coindesk.com/ibm-wants-know-ways-blockchain-can-go-wrong/
 
 # Appendix
