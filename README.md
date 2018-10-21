@@ -135,6 +135,8 @@ Smart contracts and ledgers are used to encapsulate the shared processes and sha
 1. Transaction read/write sets are written to the blockchain
 1. Channel configurations are also written to the blockchain
 
+<img src="https://github.com/LennartFr/hyperlab20181018/blob/master/Blockchain.png">
+
 ### 3. Fabric Orderering service
 The heart if the concensus algorithm. Before anything is committed to the ledger it must pass thru the
 ordering service.
