@@ -137,8 +137,8 @@ Smart contracts and ledgers are used to encapsulate the shared processes and sha
 
 <img src="https://github.com/LennartFr/hyperlab20181018/blob/master/Blockchain.png">
 
-### 3. Fabric Orderering service
-The heart of the concensus algorithm. Before anything is committed to the ledger it must pass thru the
+### 3. Fabric Orderering service and Consensus
+The heart of the consensus algorithm. Before anything is committed to the ledger it must pass thru the
 ordering service.
 
 <img src="https://github.com/LennartFr/hyperlab20181018/blob/master/ordering.png">
