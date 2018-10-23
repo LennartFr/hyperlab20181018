@@ -191,6 +191,11 @@ https://hyperledger-fabric.readthedocs.io/en/release-1.3/chaincode.html#chaincod
 
  <img src="https://raw.githubusercontent.com/LennartFr/hyperlab20181018/master/Screen%20Shot%202018-10-19%20at%2011.49.41.png">
 
+<img src="https://github.com/LennartFr/hyperlab20181018/blob/master/cc1.png">
+
+<img src="https://github.com/LennartFr/hyperlab20181018/blob/master/cc2.png">
+
+<img src="https://github.com/LennartFr/hyperlab20181018/blob/master/cc3.png">
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
