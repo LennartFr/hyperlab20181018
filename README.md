@@ -181,9 +181,9 @@ Creating couchdb ... done
        along with a LevelDB or CouchDB index to these blocks by number. 
        The blocks are delivered via RPC to committing peers. 
        The peers store them locally, and maintain a LevelDB (or CouchDB)based block index.
-       ~~~~
+       
        http://bit.ly/2zORhrC                                                                                            
- 
+ ~~~~
 ### 4: Chaincode or Smart Contracts
 
 https://hyperledger-fabric.readthedocs.io/en/release-1.3/chaincode.html#chaincode-tutorials
