@@ -41,6 +41,8 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 <img src="https://cdn-images-1.medium.com/max/1600/1*0rKNjHVnhdUmlm_LCig2zg.png">
 
 
+<a href="https://www.ibm.com/blogs/bluemix/2017/03/new-benefits-program-cloud-solutions-providers-isvs/">New Benefits Program for Cloud Solutions Providers ISVs</a>
+
 # News Update
 
 <img src="https://www.hyperledger.org/wp-content/uploads/2018/10/EEA-Hyperledger-02-1.png"><p>
