@@ -10,7 +10,7 @@ Lennart Frantzell @ LinkedIn
 # Agenda
 ~~~
 7:00: Sign-in, mingle, food, welcome, form teams 
-7:20: Lennart: Introduction to IBM Blockchain and Hyperledger  
+7:20: Introduction to IBM Blockchain and Hyperledger  
 7:40: Labs.
       Lab 1: Developer Journeys for Blockchain  https://developer.ibm.com/code/technologies/blockchain/
       Lab 2: Let's write an app with the Hyperledger Composer
