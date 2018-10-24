@@ -9,13 +9,11 @@ URL: https://ibm.biz/HyperledgerFremont
 ~~~
 7:00: Sign-in, mingle, food, welcome, form teams 
 7:20: Lennart: Introduction to IBM Blockchain and Hyperledger  
-7:40: Coding starts.
-      Lab 1: Let's run our first application in Hyperledger Fabric
+7:40: Labs.
+      Lab 1: Developer Journeys for Blockchain  https://developer.ibm.com/code/technologies/blockchain/
       Lab 2: Let's write an app with the Hyperledger Composer
-      Lab 3: Into the IBM Cloud with IBM Blockchain, a full app
-8:15: Coding ends.
-      Where do we go from here? 
-      Developer Journeys for Blockchain  https://developer.ibm.com/code/technologies/blockchain/
+      Lab 3: Into the IBM Cloud with IBM Blockchain
+8:15: Where do we go from here?       
 9:00: Event ends   
 ~~~~
 
