@@ -38,6 +38,9 @@ which combined provide a trustworthy service to a group of nodes that do not ful
 <p>
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
+<img src="https://cdn-images-1.medium.com/max/1600/1*0rKNjHVnhdUmlm_LCig2zg.png">
+
+
 # News Update
 
 <img src="https://www.hyperledger.org/wp-content/uploads/2018/10/EEA-Hyperledger-02-1.png"><p>
