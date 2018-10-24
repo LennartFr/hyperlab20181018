@@ -49,7 +49,7 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <a href="https://www.hyperledger.org/blog/2018/10/01/growing-the-enterprise-blockchain-ecosystem-through-open-standards-and-open-source-code">Growing the Enterprise Blockchain Ecosystem Through Open Standards and Open Source Code</a>
 
-# <a href="https://www.hyperledger.org/resources/publications/blockchain-performance-metrics">Hyperledger Performance Metrics</a>
+<a href="https://www.hyperledger.org/resources/publications/blockchain-performance-metrics">Hyperledger Performance Metrics</a>
 
 <a href="https://cachin.com/cc/talks/20170106-blockchain-rwc.pdf">Cryptography and Protocols in
 Hyperledger Fabric</a>
